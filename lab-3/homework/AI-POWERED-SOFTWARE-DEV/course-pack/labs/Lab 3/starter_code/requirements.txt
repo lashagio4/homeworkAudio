@@ -1,0 +1,8 @@
+google-cloud-speech>=2.26.1
+google-cloud-texttospeech>=2.16.2
+librosa>=0.10.2.post1
+numpy>=1.26.5
+pydub>=0.25.0
+spacy>=3.7.5
+soundfile>=0.12.1
+python-dotenv>=1.0.1
